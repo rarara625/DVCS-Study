@@ -5,6 +5,7 @@ public class Caculator2 {
 		// 주석 추가
 		// add2
 		// add3
+		// add4
 	}
 
 }
