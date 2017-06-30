@@ -15,5 +15,9 @@ public class Caculator2 {
 	public int subtraction(int num1, int num2) {
 		return num1-num2;	// fix error version at home
 	}
+	
+	public int multiplication(int num1, int num2) {
+		return num1*num2;	// fix error version at home
+	}
 
 }
